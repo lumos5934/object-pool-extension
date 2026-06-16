@@ -1,5 +1,5 @@
 {
-  "name": "com.llib.objectpoolextension",
+  "name": "com.llib.objectpool",
   "version": "1.0.0",
   "displayName": "Object Pool Extension",
   "description": "유니티 오브젝트 풀을 이용한 확장 기능을 제공하는 패키지 입니다.",
