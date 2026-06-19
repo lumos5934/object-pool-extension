@@ -5,7 +5,7 @@
 <br>
 <br>
 
-
+## Usage
 #### Tracked Pool
 풀에서 꺼낸 객체를 `HashSet` 으로 관리하여 `ReleaseAll()`을 실행 할 수 있습니다.
 
