@@ -1,5 +1,5 @@
 {
-    "name": "ObjectPoolExtensions.Runtime",
+    "name": "TrackedPool.Runtime",
     "rootNamespace": "",
     "references": [],
     "includePlatforms": [],

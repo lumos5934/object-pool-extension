@@ -9,7 +9,6 @@ namespace LLib
         private readonly ObjectPool<T> _pool;
         private readonly HashSet<T> _activeRegistry = new();
     
-    
         public int CountInactive => _pool.CountInactive;
     
     
